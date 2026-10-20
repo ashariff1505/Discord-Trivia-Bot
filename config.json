@@ -54,8 +54,8 @@
 
   "enable-listings": false,
   "listing-tokens": {
-    "discord.bots.gg": "optionaltokenhere",
-    "discords.com": "optionaltokenhere",
-    "top.gg": "optionaltokenhere"
+    "discord.bots.gg": "DISCORD_TOKEN",
+    "discords.com": "DISCORD_TOKEN",
+    "top.gg": "DISCORD_TOKEN"
   }
 }
