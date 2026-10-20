@@ -13,3 +13,319 @@ questions:
   correct_answer: "False"
   incorrect_answers:
   - "True"
+
+# ==========================================
+# LAND BIOLOGY & ECOLOGY
+# ==========================================
+- category: "Land Biology"
+  type: "multiple"
+  difficulty: "easy"
+  question: "What is the topmost layer of a rainforest, where towering trees receive the maximum amount of sunlight, called?"
+  correct_answer: "Emergent layer"
+  incorrect_answers:
+    - "Canopy"
+    - "Understory"
+    - "Forest floor"
+
+- category: "Land Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "Which type of soil, often found in wetlands and bogs, is made of partially decomposed organic matter and sequesters huge amounts of carbon?"
+  correct_answer: "Peat"
+  incorrect_answers:
+    - "Loam"
+    - "Silt"
+    - "Clay"
+
+- category: "Land Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "What term describes the predictable, gradual process by which ecosystems change and develop over time after a disturbance like a forest fire?"
+  correct_answer: "Ecological succession"
+  incorrect_answers:
+    - "Adaptive radiation"
+    - "Ecosystem degradation"
+    - "Biological magnification"
+
+- category: "Land Biology"
+  type: "multiple"
+  difficulty: "hard"
+  question: "In desert ecosystems, what biological soil crusts consisting of cyanobacteria, mosses, and lichens prevent wind and water erosion?"
+  correct_answer: "Cryptobiotic soils"
+  incorrect_answers:
+    - "Laterite soils"
+    - "Podzol crusts"
+    - "Chernozem layers"
+
+- category: "Land Biology"
+  type: "boolean"
+  difficulty: "easy"
+  question: "True or False: Decomposers like fungi and bacteria are essential to land ecosystems because they recycle nutrients back into the soil."
+  correct_answer: "True"
+  incorrect_answers:
+    - "False"
+
+- category: "Land Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "Which terrestrial biome features cold winters, warm summers, and is dominated by cone-bearing evergreen trees like pines and spruces?"
+  correct_answer: "Taiga"
+  incorrect_answers:
+    - "Temperate deciduous forest"
+    - "Chaparral"
+    - "Tundra"
+
+- category: "Land Biology"
+  type: "multiple"
+  difficulty: "hard"
+  question: "What is the primary microclimatic reason that valleys are often colder at night than the surrounding hillsides?"
+  correct_answer: "Cold air drainage"
+  incorrect_answers:
+    - "Albedo effect"
+    - "Transpirational cooling"
+    - "Adiabatic heating"
+
+- category: "Land Biology"
+  type: "boolean"
+  difficulty: "medium"
+  question: "True or False: Savannas are grassland ecosystems completely devoid of any tree canopy."
+  correct_answer: "False"
+  incorrect_answers:
+    - "True"
+
+# ==========================================
+# ANIMAL BIOLOGY & ECOSYSTEMS
+# ==========================================
+- category: "Animal Biology"
+  type: "multiple"
+  difficulty: "easy"
+  question: "An animal that eats both plants and other animals to obtain energy is classified as what?"
+  correct_answer: "Omnivore"
+  incorrect_answers:
+    - "Herbivore"
+    - "Carnivore"
+    - "Detritivore"
+
+- category: "Animal Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "What term is used for a species, like the sea otter or beaver, that has a disproportionately large effect on its natural environment relative to its abundance?"
+  correct_answer: "Keystone species"
+  incorrect_answers:
+    - "Indicator species"
+    - "Apex predator"
+    - "Endemic species"
+
+- category: "Animal Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "What happens to the concentration of toxins, like heavy metals or microplastics, as they move up successive levels of a food chain?"
+  correct_answer: "It increases significantly"
+  incorrect_answers:
+    - "It decreases slightly"
+    - "It remains exactly the same"
+    - "It is completely filtered out"
+
+- category: "Animal Biology"
+  type: "multiple"
+  difficulty: "hard"
+  question: "What is the term for a close relationship between two animal species where one benefits and the other is completely unaffected?"
+  correct_answer: "Commensalism"
+  incorrect_answers:
+    - "Mutualism"
+    - "Parasitism"
+    - "Amensalism"
+
+- category: "Animal Biology"
+  type: "boolean"
+  difficulty: "easy"
+  question: "True or False: Ectothermic animals, such as reptiles and amphibians, rely heavily on environmental heat sources to regulate their body temperature."
+  correct_answer: "True"
+  incorrect_answers:
+    - "False"
+
+- category: "Animal Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "Which insect group is considered the most critical animal pollinator group for global agricultural ecosystems and wild flowering plants?"
+  correct_answer: "Bees"
+  incorrect_answers:
+    - "Butterflies"
+    - "Beetles"
+    - "Ants"
+
+- category: "Animal Biology"
+  type: "multiple"
+  difficulty: "hard"
+  question: "What is the biological term for the defense mechanism where an animal sheds a body part, such as a lizard dropping its tail, to escape a predator?"
+  correct_answer: "Autotomy"
+  incorrect_answers:
+    - "Aposematism"
+    - "Ecdysis"
+    - "Crypsis"
+
+- category: "Animal Biology"
+  type: "boolean"
+  difficulty: "medium"
+  question: "True or False: Apex predators sit at the absolute bottom of an ecological food pyramid."
+  correct_answer: "False"
+  incorrect_answers:
+    - "True"
+
+# ==========================================
+# PLANT BIOLOGY & BOTANY
+# ==========================================
+- category: "Plant Biology"
+  type: "multiple"
+  difficulty: "easy"
+  question: "What are the microscopic pores on the underside of plant leaves that regulate gas exchange and water loss called?"
+  correct_answer: "Stomata"
+  incorrect_answers:
+    - "Thylakoids"
+    - "Trichomes"
+    - "Xylem tubes"
+
+- category: "Plant Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "What is the name of the complex underground networks formed by fungi and plant roots that share nutrients and water across an entire forest?"
+  correct_answer: "Mycorrhizae"
+  incorrect_answers:
+    - "Rhizomes"
+    - "Lichenization"
+    - "Bryophytes"
+
+- category: "Plant Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "Which vascular plant tissue is responsible for transporting water and dissolved minerals upward from the roots to the leaves?"
+  correct_answer: "Xylem"
+  incorrect_answers:
+    - "Phloem"
+    - "Cambium"
+    - "Cortex"
+
+- category: "Plant Biology"
+  type: "multiple"
+  difficulty: "hard"
+  question: "Plants that adapted to survive in highly saline environments, such as coastal salt marshes and mangrove swamps, are known as what?"
+  correct_answer: "Halophytes"
+  incorrect_answers:
+    - "Xerophytes"
+    - "Epiphytes"
+    - "Hydrophytes"
+
+- category: "Plant Biology"
+  type: "boolean"
+  difficulty: "easy"
+  question: "True or False: Plants absorb oxygen and release carbon dioxide during photosynthesis."
+  correct_answer: "False"
+  incorrect_answers:
+    - "True"
+
+- category: "Plant Biology"
+  type: "multiple"
+  difficulty: "medium"
+  question: "What type of plants grow harmlessly upon other plants—such as trees—and derive their moisture and nutrients from the air and rain?"
+  correct_answer: "Epiphytes"
+  incorrect_answers:
+    - "Parasites"
+    - "Saprophytes"
+    - "Lithophytes"
+
+- category: "Plant Biology"
+  type: "multiple"
+  difficulty: "hard"
+  question: "Which plant hormone is primarily responsible for promoting fruit ripening and causing leaves to fall during autumn?"
+  correct_answer: "Ethylene"
+  incorrect_answers:
+    - "Auxin"
+    - "Gibberellin"
+    - "Abscisic acid"
+
+- category: "Plant Biology"
+  type: "boolean"
+  difficulty: "medium"
+  question: "True or False: Gymnosperms are a group of seed-producing plants that include conifers and produce enclosed flowers."
+  correct_answer: "False"
+  incorrect_answers:
+    - "True"
+
+# ==========================================
+# CLIMATE BIO & ENVIRONMENTAL SCIENCE
+# ==========================================
+- category: "Climate Bio"
+  type: "multiple"
+  difficulty: "easy"
+  question: "What is the name for the process where oceans absorb excess carbon dioxide, causing a drop in the pH level of the water?"
+  correct_answer: "Ocean acidification"
+  incorrect_answers:
+    - "Thermal expansion"
+    - "Eutrophication"
+    - "Marine desalinization"
+
+- category: "Climate Bio"
+  type: "multiple"
+  difficulty: "medium"
+  question: "When ocean temperatures rise too high, corals expel their symbiotic algae, turning completely white. What is this stressful phenomenon called?"
+  correct_answer: "Coral bleaching"
+  incorrect_answers:
+    - "Calcification"
+    - "Algal blooming"
+    - "Benthic necrosis"
+
+- category: "Climate Bio"
+  type: "multiple"
+  difficulty: "medium"
+  question: "What term describes a surface's ability to reflect solar energy, where melting ice caps decrease global reflectivity and accelerate warming?"
+  correct_answer: "Albedo"
+  incorrect_answers:
+    - "Insolation"
+    - "Radiative forcing"
+    - "Greenhouse potential"
+
+- category: "Climate Bio"
+  type: "multiple"
+  difficulty: "hard"
+  question: "As arctic permafrost melts due to rising global temperatures, trapped organic matter decays and releases greenhouse gases. What ecological concept does this cycle represent?"
+  correct_answer: "Positive feedback loop"
+  incorrect_answers:
+    - "Negative feedback loop"
+    - "Homeostatic stabilization"
+    - "Trophic cascade"
+
+- category: "Climate Bio"
+  type: "boolean"
+  difficulty: "easy"
+  question: "True or False: Planting trees helps mitigate climate change because growing forests act as carbon sinks, absorbing carbon dioxide from the atmosphere."
+  correct_answer: "True"
+  incorrect_answers:
+    - "False"
+
+- category: "Climate Bio"
+  type: "multiple"
+  difficulty: "medium"
+  question: "What term refers to the shifting geographic ranges of plant and animal species toward higher latitudes or elevations due to warming climates?"
+  correct_answer: "Range shift"
+  incorrect_answers:
+    - "Ecological drifting"
+    - "Speciation"
+
+# "Habitat fragmentation"
+- category: "Climate Bio"
+  type: "multiple"
+  difficulty: "hard"
+  question: "The sudden enrichment of a body of water with nutrients, often causing massive algal blooms that suffocate aquatic animal life, is known as what?"
+  correct_answer: "Eutrophication"
+  incorrect_answers:
+	  - "Salinization"
+	  - "Oligotrophication"
+	  - "Bioaccumulation"
+    
+- category: "Climate Bio"
+  type: "boolean"
+  difficulty: "medium"
+  question: "True or False: Global climate change only affects atmospheric temperatures and has no measurable impact on seasonal wildlife migration timelines."
+  correct_answer: "False"
+  incorrect_answers:
+	  - "True"
