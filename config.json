@@ -1,5 +1,5 @@
 {
-  "token": "yourtokenhere",
+  "token": "DISCORD_TOKEN",
 
   "accept-first-answer-only": false,
   "auto-delete-msgs": false,
