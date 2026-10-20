@@ -310,8 +310,8 @@ questions:
   incorrect_answers:
     - "Ecological drifting"
     - "Speciation"
+	- "Habitat fragmentation"
 
-# "Habitat fragmentation"
 - category: "Climate Bio"
   type: "multiple"
   difficulty: "hard"
